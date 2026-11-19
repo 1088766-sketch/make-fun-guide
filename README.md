@@ -18,9 +18,9 @@ submitting it, fixing whatever the checks complain about, and claiming a prize i
 your entry places.
 
 > **Joining because of this guide?** Sign up through my referral link:
-> [https://make.fun/r/rjv23zg3](https://make.fun/r/rjv23zg3)
+> [https://make.fun/r/wjtakcc2](https://make.fun/r/wjtakcc2)
 >
-> Or enter the referral code `rjv23zg3` when you register. It costs you nothing,
+> Or enter the referral code `wjtakcc2` when you register. It costs you nothing,
 > and it earns me a small reward when you take part.
 
 ## Contents
@@ -79,7 +79,7 @@ Four facts that shape how you should play:
 
 ## Step 1 — Create your account
 
-1. Head to [make.fun](https://make.fun/r/rjv23zg3) and use **Sign in** in the top
+1. Head to [make.fun](https://make.fun/r/wjtakcc2) and use **Sign in** in the top
    right corner.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. All of them are
    free, and signing in with a wallet does not send any transaction.
@@ -263,7 +263,7 @@ before they can be claimed, and only genuine new accounts that actually take par
 count — fake signups earn nothing.
 
 This guide exists because of that system: if it helped you get started, signing up
-with [my referral link](https://make.fun/r/rjv23zg3) — code `rjv23zg3` — is an easy
+with [my referral link](https://make.fun/r/wjtakcc2) — code `wjtakcc2` — is an easy
 way to return the favour.
 
 ## Tips from a first entry
@@ -348,4 +348,4 @@ specific detail you name.
 
 ---
 
-<sub>Written for the make.fun community. My referral link: https://make.fun/r/rjv23zg3 · code `rjv23zg3`</sub>
+<sub>Written for the make.fun community. My referral link: https://make.fun/r/wjtakcc2 · code `wjtakcc2`</sub>
